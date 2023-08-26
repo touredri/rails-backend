@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Recipe app ](#-about-project-)
+- [📖 Rails backend ](#-about-project-)
 - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
 - [🎲 Key Features ](#-key-features-)
