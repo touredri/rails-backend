@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Rails backend ](#-about-project-)
+- [📖 Rails Frontend ](#-about-project-)
 - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
 - [🎲 Key Features ](#-key-features-)
